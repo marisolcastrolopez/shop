@@ -19,7 +19,9 @@
     "iron-pages": "polymerelements/iron-pages#^1.0.0",
     "iron-selector": "polymerelements/iron-selector#^1.0.0",
     "paper-icon-button": "polymerelements/paper-icon-button#^1.0.0",
-    "paper-spinner": "polymerelements/paper-spinner#^1.0.0"
+    "paper-spinner": "polymerelements/paper-spinner#^1.0.0",
+    "paper-dropdown-menu": "https://github.com/PolymerElements/paper-dropdown-menu.git#38a5dcecffe911c716b0b829299a5348289fd289",
+    "vaadin-combo-box": "https://github.com/vaadin/vaadin-combo-box.git#9d8f1a1f4c0f460a043c28375b5a4b21fd24e37c"
   },
   "devDependencies": {
     "web-component-tester": "^4.0.0"
